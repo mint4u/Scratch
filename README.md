@@ -5,9 +5,9 @@ Hier findet ihr alles was ihr für den Scratch online Kurs von mint4u braucht.
 ### Zugriff auf Dateien
 Die Inhalte des Kurses sind aufgeteilt in Materialien und Beispiele.
 
-Unter Materialien findet ihr Arbeitsblätter und Hilfestellungen, welche im Kurs verwendet werden. Entweder druckt ihr euch diese aus, dass ihr diese schnell zur Hand habt, falls ihr Sie braucht ODER ihr öffnet Sie einfach als weitere Webseite oder einer anderen Anwendung, welche PDF-Dateien lesen kann. Wenn ihr euch nicht sicher seid, wie ihr diese öffnen könnt, dann fragt eure Eltern oder die Workshopleitung.
+Unter Arbeitsblätter findet ihr Arbeitsblätter und Hilfestellungen, welche im Kurs verwendet werden. Entweder druckt ihr euch diese aus, dass ihr diese schnell zur Hand habt, falls ihr Sie braucht ODER ihr öffnet Sie einfach als weitere Webseite oder einer anderen Anwendung, welche PDF-Dateien lesen kann. Wenn ihr euch nicht sicher seid, wie ihr diese öffnen könnt, dann fragt eure Eltern oder die Workshopleitung.
 
-Unter den Beispielen findet ihr kleine fertige Spiele, welche ihr über das Menü "Datei" -> "Hochladen vom Computer" ausprobieren und umprogrammieren könnt. Aber Vorsicht, hierbei wird euer aktuelles Projekt gelöscht, ihr solltet es also vorher abspeichern.
+Unter den Beispielprogrammen findet ihr kleine fertige Spiele, welche ihr über das Menü "Datei" -> "Hochladen vom Computer" ausprobieren und umprogrammieren könnt. Aber Vorsicht, hierbei wird euer aktuelles Projekt gelöscht, ihr solltet es also vorher abspeichern.
 
 ### Verwendete Software
 Die wichtigste Software für diesen Workshop ist Scratch, eine Programmiersprache, die über das Internet programmiert wird.
