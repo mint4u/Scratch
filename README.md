@@ -7,7 +7,7 @@ Die Inhalte des Kurses sind aufgeteilt in Materialien und Beispiele.
 
 Unter Arbeitsblätter findet ihr Arbeitsblätter und Hilfestellungen, welche im Kurs verwendet werden. Entweder druckt ihr euch diese aus, dass ihr diese schnell zur Hand habt, falls ihr Sie braucht ODER ihr öffnet Sie einfach als weitere Webseite oder einer anderen Anwendung, welche PDF-Dateien lesen kann. Wenn ihr euch nicht sicher seid, wie ihr diese öffnen könnt, dann fragt eure Eltern oder die Workshopleitung.
 
-Unter den Beispielprogrammen findet ihr kleine fertige Spiele, welche ihr über das Menü "Datei" -> "Hochladen vom Computer" ausprobieren und umprogrammieren könnt. Aber Vorsicht, hierbei wird euer aktuelles Projekt gelöscht, ihr solltet es also vorher abspeichern.
+Unter den Beispielprogrammen findet ihr kleine fertige Spiele, welche ihr über das Menü "Datei" -> "Hochladen vom Computer" ausprobieren und umprogrammieren könnt. Aber Vorsicht, hierbei wird euer aktuelles Projekt gelöscht, ihr solltet es also vorher abspeichern. Github kann euch diese nicht als Vorschau anzeigen, sobald ihr eine Scratch Datei (Endung .sb3) ausgewählt habt, könnt ihr über Download in der grauen Zeile oder "view RAW" unten in der Mitte die Datei herunter laden.
 
 ### Verwendete Software
 Die wichtigste Software für diesen Workshop ist Scratch, eine Programmiersprache, die über das Internet programmiert wird.
