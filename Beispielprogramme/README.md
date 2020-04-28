@@ -1,3 +1,2 @@
 # Verwenden von Beispielprogrammen
-Github kann euch leider keine Scratchprogramme (mit der Endung .sb3) anzeigen. Daher wunder euch nicht, wenn diese beimn draufklicken leer dargestellt werden.
-Wollt ihr eins der Programme ausprobieren, wählt es aus und klickt auf der vermeindlich leeren Seite entweder auf Download in der grauen Leiste oder auf "View RAW" unten in der Mitte.
+Hier findet ihr kleine fertige Spiele, welche ihr über das Menü "Datei" -> "Hochladen vom Computer" ausprobieren und umprogrammieren könnt. Aber Vorsicht, hierbei wird euer aktuelles Projekt gelöscht, ihr solltet es also vorher abspeichern. Github kann euch diese nicht als Vorschau anzeigen, sobald ihr eine Scratch Datei (Endung .sb3) ausgewählt habt, könnt ihr über Download in der grauen Zeile oder "view RAW" unten in der Mitte die Datei herunter laden.
